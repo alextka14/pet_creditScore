@@ -1,0 +1,15 @@
+# Игнорируем окружение
+venv/
+__pycache__/
+*.pyc
+
+# Игнорируем Jupyter временные файлы
+.ipynb_checkpoints/
+
+# Игнорируем артефакты
+*.model
+*.pkl
+*.json
+*.joblib
+
+*.html
